@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -empty |rev | sort -d '/' -f 1 | rev
